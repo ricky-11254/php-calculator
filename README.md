@@ -40,9 +40,11 @@ Ensure you have a local server environment set up (e.g., XAMPP, WAMP, MAMP) that
     - **Square Root Calculation**: Enter the number for which you want to find the square root.
     - **Logarithm Calculation**: Enter the number for which you want to find the natural logarithm.
 
-3. **Calculate**: Click the "Calculate" button to perform the operation.
+3. **Enter the operator** Enter the operator you want to work with.
 
-4. **Result**: The result of the calculation will be displayed on the page.
+4. **Calculate**: Click the "Calculate" button to perform the operation.
+
+5. **Result**: The result of the calculation will be displayed on the page.
 
 ### Important Notes
 
